@@ -1,0 +1,49 @@
+body {
+  background-color: black;
+}
+
+
+.border {
+  /* border: 2px solid red; */
+  margin: 8px;
+  background-color: #121212; 
+
+}
+
+.invert {
+  filter: invert(70%);
+}
+
+.flex {
+  display: flex;
+}
+
+.justify-center {
+  justify-content: center;
+
+}
+
+.items-center {
+  align-items: center;
+}
+
+/* .bg-gray {
+  background-color: #121212;
+  color: white;
+} */
+
+.rounded {
+  border-radius: 8px;
+}
+
+.ut{
+  overflow-y: scroll;
+  max-height: 87vh;
+  /* background-color: #121212; */
+
+} 
+
+
+
+
+
